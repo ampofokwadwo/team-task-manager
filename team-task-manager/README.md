@@ -36,7 +36,7 @@ A lightweight, in-memory REST API for managing team tasks and users, built with 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/team-task-manager.git
+   git clone https://github.com/ampofokwadwo/team-task-manager.git
    cd team-task-manager
    ```
 
